@@ -53,6 +53,7 @@ sso_start # start sso server
 estetix_start # start estetix server
 admin_start # start admin server
 galderma_start # start galderma server
+core_start # start core server
 ```
 
 ### Updating the repo

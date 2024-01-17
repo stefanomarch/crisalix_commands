@@ -42,4 +42,8 @@ my_start() {
     run_command "my" bin/start
 }
 
+core_start() {
+    run_command "core-app" bin/start
+}
+
 # Add similar functions here for other services if needed
